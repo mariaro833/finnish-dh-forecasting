@@ -176,7 +176,7 @@ If you use this code or data pipeline, please cite:
 ```
 Rohnonen, M. (2025). Probabilistic Forecasting of Cogenerated District Heating in Finland
 Under Structural Fleet Transition: A Temporal Fusion Transformer Approach.
-[Zenodo DOI — add after upload]
+Zenodo DOI: 10.5281/zenodo.20118487
 ```
 
 ---
